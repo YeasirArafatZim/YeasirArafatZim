@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeasir Arafat</h1>
 <h3 align="center">A professional MERN Stack Developer</h3>
 
-- 🔭 I’m currently working at [Singularity Limited as a Team Lead](https://singularitybd.com/)
+- 🔭 I’m currently working at [Singularity Limited (Team Lead)](https://singularitybd.com/)
 
 - 🌱 I’m currently learning **optimizing performance, and exploring DevOps tools like Docker.**
 
