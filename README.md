@@ -48,15 +48,6 @@ Leadership, Team Mentorship, Agile Development, Time Management
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeasirArafatzim&show_icons=true&theme=radical" alt="Yeasir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeasirArafatzim&theme=radical" alt="Yeasir's Streak" width="48%" />
-</p>
-
----
-
 ### 🌟 Leadership & Achievements
 
 - **Team Lead** at Singularity Limited, overseeing project delivery and code quality.
