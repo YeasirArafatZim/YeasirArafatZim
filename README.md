@@ -1,4 +1,4 @@
-![My Banner](./animated.gif)
+![My Banner](./animated2.gif)
 <h1 align="center">Hi 👋, I'm MD. Yeasir Arafat</h1>
 <h3 align="center">A professional MERN Stack Developer</h3>
 
