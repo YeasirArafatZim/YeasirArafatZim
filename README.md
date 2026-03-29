@@ -8,7 +8,7 @@
 
 - 👯 I’m open to collaborating on **innovative web projects or open-source contributions**.
 
-- 👨‍💻 Explore my portfolio and projects: [yeasirardatzim.github.io/portfolio](https://yeasirarafatzim.github.io/portfolio)  
+- 👨‍💻 Explore my portfolio and projects: [yeasirarafatzim.github.io/portfolio](https://yeasirarafatzim.github.io/portfolio)  
    Notable projects:
 
   - [Lead Management System (LeadsBox)](https://leadsbox.io)
