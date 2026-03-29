@@ -13,7 +13,7 @@
 
   - [Lead Management System (LeadsBox)](https://leadsbox.io)
   - [BYD Bangladesh](https://bydauto.com.bd)
-  - [Yadea Runner Automobiles](https://yadea.runnerautomobiles.com)
+  - [Yadea Runner Automobiles](https://yadearunner.com/)
   - [Brac Bank Demo](https://brac-bank.vercel.app/)
   - [Brac IED Demo](https://brac-ied.vercel.app/)
 
